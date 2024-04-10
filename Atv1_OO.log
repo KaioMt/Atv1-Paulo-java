@@ -1,0 +1,33 @@
+1. O que é uma classe?
+É o conjunto de vários objetos parecidos, tendo as mesmas características e os mesmo comportamentos. Ela molda e define as características, os comportamentos e o estado dos objetos. As classes tem o seu construtor, ele inicializa os atributos e realiza os processamentos
+
+2. O que é um objeto?
+Os objetos são elementos que representam algo, sendo eles não só algo tangível, mas também intangíveis. Eles são gerados e agrupados a partir de classes, eles tem 3 características principais, sendo elas: Características, comportamentos e estado
+
+
+3. O que é um atributo?
+Eles são os dados que um objeto pode armazenar.
+
+4. O que é um método de uma classe?
+É a operação, ação ou o que o objeto realiza.
+
+5. O que é um método construtor?
+Um metódo construtor inicializa os atributos das classes e realiza processamentos definidos. 
+
+6. Qual a função do método construtor de uma classe?
+Inicializar os atributos da classe e realizar processamentos iniciais definidos pelo programador
+
+7. O que diferencia o método construtor dos demais métodos da classe (em termos de implementação)?
+Ao inicializar um objeto, o metódo construtor inicia automaticamente. Além de ser uma classe obrigatória, pois inicializa os atributos da classe.
+
+8. Quando o método construtor da classe é disparado?
+Quando instacia um objeto.
+
+9. Considere um objeto Triangulo. Este objeto possui as seguintes características: Possui 3 lados, cada lado possui um comprimento X qualquer, possui uma área e também um perímetro.
+Responda:
+
+a. Quais seriam os atributos da classe triangulo?
+Qual é o tipo de triangulo(Isóceles, equilátero ou escaleno), quantidade de lados, o valor da área e o valor do perímetro 
+
+b. Quais seriam os métodos da classe triangulo?
+Calcular o perímetro, calcular a área, saber qual é o tipo de triângulo (Isóceles, equilátero ou escaleno)
